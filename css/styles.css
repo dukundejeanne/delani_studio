@@ -24,6 +24,44 @@ header{
     margin-top:15%;
 
 }
-#mouse{
+#about{
+    text-align: center;
+    font-family: Times New Roman;
+    margin-right:15%;
+    margin-left: 15%;
 
+}
+.row1{
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.7)),url('https://res.cloudinary.com/drrezzrvd/image/upload/v1564060089/2_wgioox.jpg');
+    height: 300px;
+    width:100%;
+}
+#service{
+    text-align:center;
+    font-family:Times New Roman;
+    color:white;
+}
+h3{
+    margin-top:5%;
+}
+.icons{
+    display:flex;
+    justify-content: space-around;
+    justify-content: space-between;
+    margin-left:10%;
+    margin-right: 10%;
+}
+h5{
+    color: black;
+    text-align: center;
+    font-family: Times New Roman;
+    font-size:20px;
+}
+.images1, .images2{
+    display:flex;
+    justify-content: space-around;
+    justify-content: space-between;
+    margin-top: 10px;
+    margin-right: 10%;
+    margin-left:10%;
 }
