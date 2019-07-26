@@ -10,6 +10,7 @@ we develope project using :
 * JAVASCRIPT
 * JQUERY
 * BOOTSTRAP
+this is the link of the project https://dukundejeanne.github.io/delani_studio/
 ## known Bugs
 there is no issues that are not been solve, but buy the time will increase our project regarding to the increase the skills. will add many functions  
  ## License
