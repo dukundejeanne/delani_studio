@@ -69,6 +69,7 @@ footer{
     background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.7)),url('https://res.cloudinary.com/drrezzrvd/image/upload/v1564073666/3_grjh3h.jpg');
     height: 400px;
     width:100%;
+    background-repeat: no-repeat;
 }
 h6{
     color: white;
@@ -81,20 +82,27 @@ h6{
     background-color: grey;
     columns: right;
     border-radius: 5px;
-    height: 40px;
-    width:150px;
+    height: 35px;
+    width:145px;
+    text-align: center;
+    margin-left: 40%;
+    margin-top: 2%;
 }
 
 .social{
     display: flex;
-    margin-left: 40%;
-    margin-top: 3%;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 2%;
 
 } 
-/*
-.col-md-6{
-    width:100px;
-} */
+.what-do > p{
+    text-align: center;
+}
+.row, .row2{
+    margin-left: 10%;
+    margin-right: 10%;
+}
 .copyright{
     text-align: center;
     font-family: Times New Roman;
