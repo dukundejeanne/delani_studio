@@ -1,3 +1,14 @@
+// document.getElementById("button").innerHTML
+function add(){
+var a=document.getElementById("name").value;
+var b=document.getElementById("email").value;
+var c=document.getElementById("message").value;
+alert(a+" " + b+" "+ c );
+
+}
+
+
+
 $(document).ready(function(){
  $("#1, #one").click(function(){
      $(".walrus-hidden1").toggle();
