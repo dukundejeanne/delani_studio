@@ -1,4 +1,4 @@
-// document.getElementById("button").innerHTML
+
 function add(){
 var a=document.getElementById("name").value;
 var b=document.getElementById("email").value;
