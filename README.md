@@ -4,13 +4,14 @@
 ## Description
 this website show our product, services and project that we have done for our customer by creating develope their project they need
 you need some one to develope a website for you , Delani Studio is here for you 
-we develope project using :
+we develope project for you using :
 * HTML
 * CSS
 * JAVASCRIPT
 * JQUERY
 * BOOTSTRAP
-this is the link of the project https://dukundejeanne.github.io/delani_studio/
+this is the link of the project https://dukundejeanne.github.io/delani_studio/.
+
 ## known Bugs
 there is no issues that are not been solve, but buy the time will increase our project regarding to the increase the skills. will add many functions  
  ## License
