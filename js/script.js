@@ -20,15 +20,23 @@ $(document).ready(function(){
     });
 });
 
-// $(function(){
-//     $('#img1').hover(function(){
-//         $(this).width(1.25 * $(this).width());
-//         $(this).height(1.25 * $(this).height());
-//     },
-//     function(){
-//         $(this).width(0.8 * $(this).width());
-//         $(this).height(0.8 * $(this).height());
+$(function(){
+    // $('#img1').hover(function(){
+    //     $(this).width(1.20 * $(this).width());
+    //     $(this).height(1.20 * $(this).height());
+    // },
+    // function(){
+    //     $(this).width(0.8 * $(this).width());
+    //     $(this).height(0.8 * $(this).height());
 
-//     });
+    // });
 
-// });
+    $('#img1').hover(function(){
+        $(this).stop().animate({opacity:.4},200);
+        $('.').fadeIn();
+    },
+        $(this).stop().animate({opacity:1},500)
+        $('.').fadeOut();
+    
+
+});
