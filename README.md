@@ -1,5 +1,5 @@
 # delani_studio
-### The website with it portfolio. show the Delani Studio, 26 july 2019.
+### The website of Delani studio. show the Delani Studio, 26 july 2019.
 ### By Dukunde Marie Jeanne
 ## Description
 this website show our product, services and project that we have done for our customer by creating develope their project they need
@@ -15,4 +15,4 @@ there is no issues that are not been solve, but buy the time will increase our p
  ## License
  this website is an open website every one can use it by searching and visite the website 
  otherwise no one is allowed to use it by huncking the website 
- Copyright (c) 2019 * Dukunde jeanne 
+ Copyright (c) 2019  Dukunde jeanne 
