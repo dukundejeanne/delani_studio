@@ -9,7 +9,7 @@ header{
 }
 .image_header{
     text-align: center;
-    text-transform: uppercase;
+    text-transform: capitalize;
     font-size: 20px;
     font-family:serif;
     letter-spacing: 5px;
@@ -64,4 +64,42 @@ h5{
     margin-top: 10px;
     margin-right: 10%;
     margin-left:10%;
+}
+footer{
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.7)),url('https://res.cloudinary.com/drrezzrvd/image/upload/v1564073666/3_grjh3h.jpg');
+    height: 400px;
+    width:100%;
+}
+h6{
+    color: white;
+    text-align: center;
+    font-family: Times New Roman;
+    font-size:30px;
+    text-transform: uppercase;
+}
+#button{
+    background-color: grey;
+    columns: right;
+    border-radius: 5px;
+    height: 40px;
+    width:150px;
+}
+
+.social{
+    display: flex;
+    margin-left: 40%;
+    margin-top: 3%;
+
+} 
+/*
+.col-md-6{
+    width:100px;
+} */
+.copyright{
+    text-align: center;
+    font-family: Times New Roman;
+    text-transform: uppercase;
+}
+.walrus-showing{
+    display: none;
 }
