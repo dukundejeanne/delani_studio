@@ -111,3 +111,9 @@ h6{
 .walrus-showing{
     display: none;
 }
+h8{
+    /* transform: translate(200px,100px); */
+    color:black;
+    font-size:20px;
+    text-transform: capitalize;
+}
